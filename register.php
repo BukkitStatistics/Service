@@ -9,6 +9,10 @@
 
     <!-- Le styles -->
     <link href="./assets/css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/font-awesome.min.css">
+    <!--[if IE 7]>
+    <link rel="stylesheet" href="assets/css/font-awesome-ie7.min.css">
+    <![endif]-->
     <style type="text/css">
         body {
             padding-top: 40px;
@@ -81,7 +85,7 @@
         </div><br/>
         <button class="btn btn btn-primary" type="submit">Create account</button>
         <hr>
-        <a class="btn btn-small btn-success" href="./signin.html">Sign in</a>
+        <a class="btn btn-small btn-success" href="./signin.php">Sign in</a>
         <a class="btn btn-small btn-warning" type="submit">Forgot Password</a>
     </form>
 
